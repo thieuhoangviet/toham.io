@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent = "Nếu cuộc đời này như một bức họa thì em sẽ là ngôi sao sáng nhất thổi hồn cho bức họa ấy. Anh yêu em, trước đây, hiện tại và sau này vẫn yêu em. Mãi mãi không đổi thay."
+var letterContent = "Nếu cuộc đời này như một bức họa thì em sẽ là ngôi sao sáng nhất thổi hồn cho bức họa ấy. Anh yêu em, trước đây, hiện tại và sau này vẫn yêu em. Mãi mãi không đổi thay. Anh yêu em. Hoàng Việt yêu Duyên tồ"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50
